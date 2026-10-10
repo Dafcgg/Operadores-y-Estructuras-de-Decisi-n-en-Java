@@ -8,7 +8,7 @@ public class Seccion1Calentamiento {
         int seg = 86400 % 3600;
         System.out.println("seg = " + seg);
 
-        x = 5;
+        x = 7;
         int y = ++x + x++;
         System.out.println("y = " + y);
         System.out.println("x despues = " + x);
