@@ -8,7 +8,7 @@ Taller práctico de Java sobre operadores, estructuras de decisión (`if-else`, 
 |---|---|
 | Java | OpenJDK 27 |
 | IDE | IntelliJ IDEA |
-| Sistema de construcción | IntelliJ |
+| Sistema de construcción | Maven |
 
 El `switch` moderno con flecha (`->`) requiere Java 14 o superior, así que funciona sin problema con OpenJDK 27.
 
